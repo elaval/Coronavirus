@@ -1,4 +1,4 @@
-date	location	new_cases	new_deaths	total_cases	total_deaths
+date	location	new_cases	new_deaths	total_cases	total_deaths new_asymptomatics
 2020-03-04	Chile		0	1	0
 2020-03-05	Chile	0	0	1	0
 2020-03-06	Chile	0	0	1	0
@@ -55,4 +55,5 @@ date	location	new_cases	new_deaths	total_cases	total_deaths
 2020-04-26	Chile	473	8	13331	189
 2020-04-27	Chile	482	9	13813	198
 2020-04-28	Chile	552	9	14365	207
-2020-04-29	Chile	520	9	14885	216
+2020-04-29	Chile	770	9	15135	216	250
+2020-04-30	Chile	888	11	16023	227	108
